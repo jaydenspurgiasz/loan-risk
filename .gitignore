@@ -1,3 +1,2 @@
-./data/test.csv
-./data/val.csv
-./data/train.csv
+data/*
+!data/curData.csv
